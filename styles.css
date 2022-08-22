@@ -1,6 +1,9 @@
+
+
 .carousel {
     max-width: 600px;
     position: relative;
+    margin: 0 auto;
 }
 
 .carousel-item,
@@ -72,8 +75,6 @@ h3 {
     color: white;
     font-size: 22px;
     font-weight: 700;
-
-
 }
 
 .info-btn {
@@ -111,3 +112,6 @@ h3 {
 .dots-center {
     text-align: center;
   }
+
+
+  /*Figure out how to make text box responsive  */
